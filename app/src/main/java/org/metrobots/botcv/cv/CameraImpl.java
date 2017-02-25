@@ -20,6 +20,7 @@ import java.util.ArrayList;
 /*
  * Interface class for the camera
  * Created by Tasgo on 1/16/16.
+ * Last modified: 02/25/17
  */
 public class CameraImpl implements CvCameraViewListener {
 
